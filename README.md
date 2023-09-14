@@ -25,6 +25,6 @@ If you have any feedback or suggestions for improvement, please don't hesitate t
 
 ## Contact
 
-If you have any questions or would like to get in touch with me regarding this project, you can reach me at [your-email@example.com](mailto:your-email@example.com).
+If you have any questions or would like to get in touch with me regarding this project, you can reach me at angelov.mladen@gmail.com
 
 Thank you for checking out my attempt at creating emailer flyers for the casino company!
